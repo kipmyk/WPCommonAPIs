@@ -1,6 +1,6 @@
 # get_option(): - https://developer.wordpress.org/reference/functions/get_option/
 
-`SourceFile`: wp-includes/option.php view on [View on GitHub](<[url](https://github.com/WordPress/wordpress-develop/blob/6.2/src/wp-includes/option.php#L78-L254)>)
+`SourceFile`: wp-includes/option.php view on [View on GitHub]([url](https://github.com/WordPress/wordpress-develop/blob/6.2/src/wp-includes/option.php#L78-L254))
 
 ```php
 function get_option( $option, $default_value = false ) {
