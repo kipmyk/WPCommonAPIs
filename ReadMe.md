@@ -2,7 +2,7 @@
 
 This repository will be strictly used for uploading all of my test projects related to the **[Common WordPress APIs](https://developer.wordpress.org/apis/)**.
 
-## 1. Options APIs
+## 1. Options API
 
 **Reference:** https://developer.wordpress.org/apis/options/
 
