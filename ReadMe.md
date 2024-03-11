@@ -1,6 +1,6 @@
 # WordPress Common APIs
 
-This repository will be strictly for uploading all my test projects for the **[Common WordPress APIs](https://developer.wordpress.org/apis/)**.
+This repository will be strictly used for uploading all of my test projects related to the **[Common WordPress APIs](https://developer.wordpress.org/apis/)**.
 
 ## 1. Options
 
