@@ -10,4 +10,6 @@ The `Options API` is a simple and standardized way of storing data in the databa
 
 ## 2. Dashboard widgets API
 
-Since WordPress Version 2.7, the **[Dashboard Widgets API](https://developer.wordpress.org/apis/dashboard-widgets/)** makes it straightforward to add new widgets to the WordPress administration dashboard.
+**Reference:** https://developer.wordpress.org/apis/dashboard-widgets/
+
+Since WordPress Version 2.7, the Dashboard Widgets API makes it straightforward to add new widgets to the WordPress administration dashboard.
